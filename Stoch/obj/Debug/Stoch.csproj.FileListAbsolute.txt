@@ -1,0 +1,13 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.SheetForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\bin\Debug\Stoch.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\bin\Debug\Stoch.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.ResForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.StageForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.ExpForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Stoch\Stoch\obj\Debug\Stoch.DistForm.resources
